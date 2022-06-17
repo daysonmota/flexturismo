@@ -1,4 +1,4 @@
 # project flexbox DIO
 
-Learning page criada de forma responsiva.
+Learning page criada e responsiva.
 
